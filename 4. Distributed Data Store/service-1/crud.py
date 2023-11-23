@@ -19,7 +19,7 @@ class CRUDUser:
 
     def create(self, user_dict : dict):
         '''
-            The create function from CRUD, This function adds a service to the datstore.
+            The create function from CRUD, This function adds a service to the data store.
         :param user_dict: dict
             The dictionary containing the information about users.
         :return: dict, int
